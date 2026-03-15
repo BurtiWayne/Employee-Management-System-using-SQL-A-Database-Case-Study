@@ -1,0 +1,2 @@
+# Employee-Management-System-using-SQL-A-Database-Case-Study
+This project demonstrates the design and implementation of a relational database system to manage employee information using SQL. The database stores and manages data related to employees, departments, job roles, and office locations. It also includes a wide range of SQL queries to perform data retrieval, filtering, aggregation, and analysis.
